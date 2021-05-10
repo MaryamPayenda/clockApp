@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.glow {
+  font-size: 60px;
+  font-weight: bold;
+  background-color: #202020;
+  padding: 30px;
+  border-radius: 10px;
+  color: gredient;
+}
